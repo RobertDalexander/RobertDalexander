@@ -6,15 +6,15 @@
 <hr>
 
 ## About me:
-
+<br>
 <ul>
-  <li> My name is Robert Alexander Delgado.</li> <br>
+  <li> My name is Robert Alexander Delgado.</li> 
 
-  <li>I'm from Venezuela but I live in Brazil. 🇻🇪 🇧🇷. </li> <br>
+  <li>I'm from Venezuela but I live in Brazil. 🇻🇪 🇧🇷. </li> 
   
-  <li> I'm currently starting my second year in systems analysis and development.</li><br>
+  <li> I'm currently starting my second year in systems analysis and development.</li>
 
- <li> I'm passionate about front-end development.</li><br>
+ <li> I'm passionate about front-end development.</li>
   
   <li> I speak Italian, Portuguese, Spanish and  I'm learning English.</li><br>
 </ul> 
