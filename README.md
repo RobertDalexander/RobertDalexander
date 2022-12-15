@@ -12,11 +12,9 @@
 
   <li>I'm from Venezuela but I live in Brazil. 🇻🇪 🇧🇷. </li> <br>
   
-  <li> I am currently starting my second year in systems analysis and development.</li><br>
+  <li> I'm currently starting my second year in systems analysis and development.</li><br>
 
- <li>Passionate about front-end development.</li><br>
-
-  <li>Continuously improving my web development skills.</li><br>
+ <li> I'm passionate about front-end development.</li><br>
   
   <li> I speak Italian, Portuguese, Spanish and  I'm learning English.</li><br>
 </ul> 
