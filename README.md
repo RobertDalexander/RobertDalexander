@@ -30,7 +30,7 @@
 
 <a href="#">![Robert Alexander Github stats](https://github-readme-stats.vercel.app/api?username=RobertDalexander&show_icons=true&theme=monokai)</a>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertDalexander&layout=compact&theme=monokai)
+<a href="#">![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertDalexander&layout=compact&theme=monokai)</a>
 
 <hr>
   
